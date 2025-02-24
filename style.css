@@ -1,3 +1,12 @@
+@font-face {
+    font-family: 'buttermilk';
+    src: url('buttermilk.woff2');
+  
+    font-style: normal;
+    font-weight: normal;
+}
+
+
 *{
     margin: 0;
     padding: 0;
@@ -12,7 +21,7 @@ html,body{
 #bg{
     height: 100%;
     width: 100%;
-    background-image: url(lubo-minar-j2RgHfqKhCM-unsplash.jpg);
+    background-image: url(bg.webp);
     background-size: cover;
 
 }
